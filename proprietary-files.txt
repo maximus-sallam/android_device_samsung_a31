@@ -44,11 +44,14 @@ vendor/lib64/hw/camera.unihal.default.so
 vendor/lib64/mt6768/libdpframework.so
 vendor/lib64/mt6768/libmtk_drvb.so
 vendor/lib64/mt6768/libpq_prot.so
-vendor/lib64/gc5035_mipi_raw_IdxMgr.so
+vendor/lib64/sr846d_mipi_raw_IdxMgr.so
+vendor/lib64/gc02m1b_mipi_raw_IdxMgr.so
+vendor/lib64/gc02m1_mipi_raw_IdxMgr.so
 vendor/lib64/gc5035b_mipi_raw_IdxMgr.so
+vendor/lib64/gc5035_mipi_raw_IdxMgr.so
 vendor/lib64/hi2021q_mipi_raw_IdxMgr.so
-vendor/lib64/imx576_mipi_raw_IdxMgr.so
-vendor/lib64/imx582_mipi_raw_IdxMgr.so
+vendor/lib64/imx355_mipi_raw_IdxMgr.so
+vendor/lib64/s5kgw3_mipi_raw_IdxMgr.so
 vendor/lib64/lib3a.ae.core.so
 vendor/lib64/lib3a.ae.so
 vendor/lib64/lib3a.af.core.so
@@ -194,9 +197,6 @@ vendor/lib64/libpq_prot.so
 vendor/lib64/libseccam_util.so
 vendor/lib64/libsensorndkbridge.so
 vendor/lib64/libstereoinfoaccessor_vsdof.so
-vendor/lib64/s5k2x5sp13_mipi_raw_IdxMgr.so
-vendor/lib64/s5k4hayx_mipi_raw_IdxMgr.so
-vendor/lib64/s5kgm2_mipi_raw_IdxMgr.so
 vendor/lib64/unihal_cutils@2.1.so
 vendor/lib64/unihal_main@2.1.so
 vendor/lib64/unihal_uniplugin@1.0.so
