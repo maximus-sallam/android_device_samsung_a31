@@ -9,7 +9,7 @@ $(call inherit-product, device/samsung/mt6768-common/mt6768.mk)
 
 # Overlays
 PRODUCT_PACKAGES += \
-    A31FrameworksResOverlay
+    A32FrameworksResOverlay
 
 # AAPT
 PRODUCT_AAPT_CONFIG := normal
@@ -23,4 +23,4 @@ PRODUCT_SOONG_NAMESPACES += \
 PRODUCT_SHIPPING_API_LEVEL := 29
 
 # Inherit the proprietary files
-$(call inherit-product, vendor/samsung/a31/a31-vendor.mk)
+$(call inherit-product, vendor/samsung/a32/a32-vendor.mk)
