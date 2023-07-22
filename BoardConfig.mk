@@ -16,7 +16,7 @@ TARGET_OTA_ASSERT_DEVICE := a32
 TARGET_SCREEN_DENSITY := 440
 
 # Kernel
-TARGET_KERNEL_CONFIG := a32_defconfig
+TARGET_KERNEL_CONFIG := lineage_a32_defconfig
 
 # Inherit the proprietary files
 include vendor/samsung/a32/BoardConfigVendor.mk
