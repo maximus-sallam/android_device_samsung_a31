@@ -18,8 +18,5 @@ TARGET_SCREEN_DENSITY := 440
 # Kernel
 TARGET_KERNEL_CONFIG := lineage_a32_defconfig
 
-# DTBO
-BOARD_PREBUILT_DTBOIMAGE := $(DEVICE_PATH)/prebuilts/dtbo.img
-
 # Inherit the proprietary files
 include vendor/samsung/a32/BoardConfigVendor.mk
