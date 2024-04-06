@@ -14,7 +14,7 @@ fi
 
 set -e
 
-export DEVICE=a32
+export DEVICE=a31
 export DEVICE_COMMON=mt6768-common
 export VENDOR=samsung
 

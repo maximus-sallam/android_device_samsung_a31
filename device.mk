@@ -23,4 +23,4 @@ PRODUCT_SOONG_NAMESPACES += \
 PRODUCT_SHIPPING_API_LEVEL := 29
 
 # Inherit the proprietary files
-$(call inherit-product, vendor/samsung/a32/a32-vendor.mk)
+$(call inherit-product, vendor/samsung/a31/a31-vendor.mk)
